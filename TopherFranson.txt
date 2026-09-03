@@ -2,3 +2,6 @@ GitHub Username: Topher
 Repo Link: https://github.com/robertchristopherfranson-svg/professorbuttchin.git
 Team Name: professorbuttchin
 Team mates:The other peepss
+
+git config user.name "Your Name"
+git config user.email "rcf160130@utdallas.edu"
